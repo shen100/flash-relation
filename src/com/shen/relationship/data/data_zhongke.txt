@@ -1,0 +1,4 @@
+﻿{"id":"138",
+"color":"0xAFAF61",
+"name":"张三事件",
+"relation":[{"name":"人物","id":"3","color":"0x2894FF","relation":[{"name":"王滨","id":"26","color":"0xFFFFFF"},{"name":"阿布·奥斯特豪斯","id":"38","color":"0xFFFFFF"},{"name":"庞星火","id":"40","color":"0xFFFFFF"}]},{"name":"地域","id":"2","color":"0x2894FF","relation":[{"name":" 宝兴县 ","id":"18","color":"0xFFFFFF"},{"name":"天全县","id":"19","color":"0xFFFFFF"},{"name":"成都","id":"20","color":"0xFFFFFF"}]},{"name":"机构 ","id":"1","color":"0x2894FF","relation":[{"name":"中国科学院","id":"33","color":"0xFFFFFF"},{"name":"计划生育委员会","id":"35","color":"0xFFFFFF"},{"name":"中纪委","id":"43","color":"0xFFFFFF"}]}]}
